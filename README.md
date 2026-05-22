@@ -67,7 +67,7 @@ I implemented and understood:
 
 The core prediction equation used was:
 
-\hat{y}=\sigma(wx+b)
+$\hat{y}$= $\sigma$(wx+b)
 
 This simple equation became the foundation for understanding how larger neural networks operate.
 
